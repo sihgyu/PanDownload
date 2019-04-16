@@ -1,0 +1,14 @@
+2019-04-04 22:00:05 [INFO] pandownload version: 2.0.6
+2019-04-04 22:00:07 [INFO] aria2 websocket connection opened
+2019-04-04 22:00:07 [INFO] aria2 version: 1.34.0
+2019-04-04 22:00:07 [INFO] aria2 json-rpc path: http://token:pandownload@127.0.0.1:6808/jsonrpc
+2019-04-04 22:00:07 [INFO] create main window
+2019-04-04 22:00:41 [WARN] ID#1 - 未登录网盘账号，无法下载(-4) FILE="C:/Users/smallBottle/Desktop/java录屏.rar" SIZE="2566445301"
+2019-04-04 22:00:41 [WARN] ID#1 - 未登录网盘账号，无法下载(-4) FILE="C:/Users/smallBottle/Desktop/java录屏.rar" SIZE="2566445301"
+2019-04-04 22:00:42 [WARN] ID#1 - 未登录网盘账号，无法下载(-4) FILE="C:/Users/smallBottle/Desktop/java录屏.rar" SIZE="2566445301"
+2019-04-04 22:01:47 [INFO] verify cookie (639)
+2019-04-04 22:01:50 [INFO] user login success (1241646072): 于红开
+2019-04-04 22:08:27 [INFO] close main window
+2019-04-04 22:08:27 [WARN] aria2 websocket connection closed, code: 1000 (Normal close), reason: aria2 shutdown
+2019-04-04 22:08:28 [INFO] websocket client stop
+2019-04-04 22:08:28 [INFO] exit
